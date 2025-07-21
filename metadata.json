@@ -1,0 +1,8 @@
+{
+  "name": "Ttakmari Chicken Website",
+  "description": "A promotional website for Ttakmari Chicken, showcasing its brand, menu, franchise opportunities, success stories, and contact information. The brand emphasizes 'perfectly crispy' 2/3 portion chicken at a reasonable price.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
